@@ -129,6 +129,11 @@ public class MainActivity extends ActionBarActivity {
             return true;
         }
 
+        if(id == R.id.action_back_home){
+            setContentView(R.layout.activity_main);
+            return true;
+        }
+
         return super.onOptionsItemSelected(item);
     }
 

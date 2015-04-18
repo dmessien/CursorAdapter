@@ -27,6 +27,11 @@
         android:orderInCategory="5"
         app:showAsAction="never" />
 
+    <item android:id="@+id/action_back_home"
+        android:title="Back To Home"
+        android:orderInCategory="6"
+        app:showAsAction="never" />
+
     <item android:id="@+id/action_settings"
         android:title="@string/action_settings"
         android:orderInCategory="100"
