@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CursorAdapter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonText1">Sync Contacts</string>
+    <string name="buttonText2">View List</string>
+    <string name="emptyTable">The table is empty</string>
+</resources>
